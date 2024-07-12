@@ -26,7 +26,7 @@ Ushbu loyihada quyidagi texnologiyalar va kutubxonalardan foydalanilgan:
 
 1. Repositoryni klonlash:
    ```bash
-   git clone https://github.com/UznetDev/Data-science-home-work.git
+   git clone https://github.com/CoderGoC/Homework.git
    ```
 2. Virtual muhit yaratish va kerakli kutubxonalarni o'rnatish:
    ```bash
@@ -61,11 +61,5 @@ Agar loyihaga hissa qo'shmoqchi bo'lsangiz, iltimos quyidagi qadamlarni bajaring
 Ushbu loyiha MIT litsenziyasi ostida tarqatiladi. Batafsil ma'lumot uchun [LICENSE](LICENSE) faylini ko'rib chiqing.
 
 
-## Aloqa
-
-Agar sizda biron bir savol yoki taklif bo'lsa, iltimos quyidagi manzilga murojaat qiling:
-- Email: uznetdev@example.com
-- GitHub Issues: [Issues bo'limi](https://github.com/UznetDev/Data-science-home-work/issues)
-- Telegram: [UZNet_Dev](https://t.me/UZNet_Dev)
 
 Loyihaga qiziqishingiz uchun rahmat!
